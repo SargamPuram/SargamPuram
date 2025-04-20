@@ -33,7 +33,7 @@
 - **AWS** (Deployment & Cloud services)
 
 ## 💬 Let’s connect:
-- 📫 Reach me at: **sargampuram@gmail.com**
+- 📫 Reach me at: **sargampuram3@gmail.com**
 - 🌍 [LinkedIn](https://www.linkedin.com/in/sargam-puram-188806257/)
 
 ---
