@@ -38,4 +38,3 @@
 
 ---
 
-⚡ **Fun Fact**: I’ve participated in **hackathons** like the **IBM State-Level Hackathon**, where I placed in the **top 15**, and the **SheInspires Hackathon**, where I emerged as the **winner**! 🚀
