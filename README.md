@@ -1,40 +1,57 @@
-# Hi there 👋
+<div align="center">
 
-🐿️ I'm Sargam — a Rustacean at heart, crafting performant systems and cute UIs with equal obsession!
+# sargam puram
 
-![Pikachu Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxkdDFpamlmYXlnc214ejBrZXF2MW9jMmw0aTZudzdnb3lrb3J5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5lAtcHWPAYFdS/giphy.gif)
+**LFX Mentee @ CNCF Kyverno &nbsp;·&nbsp; SDE Intern @ HSBC &nbsp;·&nbsp; CS undergrad**
 
-## 🚀 What I’m working on:
+*building cloud-native tools in Go, AI agents, and full-stack systems*
 
-- 🔭 **AI-driven projects**
-- 🌱 **Learning more about deep learning** and **high-dimensional data analysis**.
-- 👯 **Collaborating on research** in **AI**, **machine learning**, and **cybersecurity**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sargam-puram-188806257)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sargampuram3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SargamPuram)
 
-## 🏆 Achievements:
-- **Winner of the SheInspires Hackathon**: Led a project to create an AI-driven solution that resonated with the theme of empowering women in tech. 💪✨
-- **Top 15 in IBM State-Level Hackathon**: Showcased my AI and machine learning skills in a competitive setting.
-
-### 🧠 Core Skills
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc)
-![WebSockets](https://img.shields.io/badge/-WebSockets-2C9AB7?style=flat&logo=socket.io&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-
-
-## 🛠️ Technologies I’m exploring:
-- **Python** (Machine Learning)
-- **Rust** (Backend systems)
-- **Next.js/React** (Frontend development)
-- **AWS** (Deployment & Cloud services)
-
-## 💬 Let’s connect:
-- 📫 Reach me at: **sargampuram3@gmail.com**
-- 🌍 [LinkedIn](https://www.linkedin.com/in/sargam-puram-188806257/)
+</div>
 
 ---
 
+### now
+
+🟢 &nbsp;**LFX Mentorship — CNCF Kyverno** &nbsp;*(Mar 2026 – present)*  
+Contributing to the Kyverno CLI in Go. Extended `kyverno apply` for HTTP/Envoy authz policies, fixed a hard panic in mutateExisting wildcard handling, built an in-memory fake dynamic client for offline cross-resource policy validation.
+
+🟢 &nbsp;**SDE Intern — HSBC** &nbsp;*(Jan 2026 – present)*  
+Building AI agents and agentic workflows with Google ADK.
+
+---
+
+### open source
+
+- **[juspay/hyperswitch](https://github.com/juspay/hyperswitch)** — UPI VPA masking in Rust &nbsp;[`PR #1641`](https://github.com/juspay/hyperswitch/pull/1641)
+- **[kyverno/kyverno](https://github.com/kyverno/kyverno)** — CLI contributions under LFX mentorship
+
+---
+
+### stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+---
+
+### wins
+
+🏆 &nbsp;Winner — HSBC CTF Hackathon 2025  
+🥇 &nbsp;1st place — SheInspires Hackathon by AWS & Zensar  
+🎖️ &nbsp;Top 15 — IBM SkillsBuild State Level Hackathon
+
+---
