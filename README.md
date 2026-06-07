@@ -16,10 +16,10 @@
 
 ### now
 
-🟢 &nbsp;**LFX Mentorship — CNCF Kyverno** &nbsp;*(Mar 2026 – present)*  
+🟢 &nbsp;**LFX Mentorship — CNCF Kyverno** &nbsp;*(Mar 2026 – May 2026)*  
 Contributing to the Kyverno CLI in Go. Extended `kyverno apply` for HTTP/Envoy authz policies, fixed a hard panic in mutateExisting wildcard handling, built an in-memory fake dynamic client for offline cross-resource policy validation.
 
-🟢 &nbsp;**SDE Intern — HSBC** &nbsp;*(Jan 2026 – present)*  
+🟢 &nbsp;**SDE Intern — HSBC** &nbsp;*(Jan 2026 – June 2026)*  
 Building AI agents and agentic workflows with Google ADK.
 
 ---
